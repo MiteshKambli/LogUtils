@@ -1,5 +1,6 @@
 # LogUtils
 Please dont use this i created for only study purpose
+
 	allprojects {
 		repositories {
 			...
