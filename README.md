@@ -1,5 +1,8 @@
 # LogUtils
 Please dont use this i created for only study purpose
+Add it in your root build.gradle at the end of repositories:
+
+
 
 	allprojects {
 		repositories {
